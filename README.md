@@ -1,2 +1,2 @@
 # Lista02_Algoritmos
- Básico de Portugol
+ O Básico de Algoritmos
